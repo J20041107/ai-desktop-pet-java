@@ -1,0 +1,12 @@
+D:\ai-desktop-pet-java\src\main\java\com\aipet\agent\ChatMessage.java
+D:\ai-desktop-pet-java\src\main\java\com\aipet\agent\DeepSeekClient.java
+D:\ai-desktop-pet-java\src\main\java\com\aipet\agent\PetAgent.java
+D:\ai-desktop-pet-java\src\main\java\com\aipet\agent\PetStatus.java
+D:\ai-desktop-pet-java\src\main\java\com\aipet\App.java
+D:\ai-desktop-pet-java\src\main\java\com\aipet\config\PetConfig.java
+D:\ai-desktop-pet-java\src\main\java\com\aipet\memory\MemoryStore.java
+D:\ai-desktop-pet-java\src\main\java\com\aipet\memory\PetMemory.java
+D:\ai-desktop-pet-java\src\main\java\com\aipet\sensor\SystemContextSensor.java
+D:\ai-desktop-pet-java\src\main\java\com\aipet\sensor\SystemSnapshot.java
+D:\ai-desktop-pet-java\src\main\java\com\aipet\sensor\WindowSensor.java
+D:\ai-desktop-pet-java\src\main\java\com\aipet\ui\PetWindow.java
