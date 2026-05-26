@@ -1,0 +1,8 @@
+.env
+pet-memory.json
+target/
+assets/*
+!assets/.gitkeep
+*.log
+.idea/
+*.iml
