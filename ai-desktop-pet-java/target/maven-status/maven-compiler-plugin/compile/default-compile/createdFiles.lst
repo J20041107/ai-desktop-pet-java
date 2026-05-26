@@ -1,0 +1,14 @@
+com\aipet\sensor\SystemContextSensor.class
+com\aipet\ui\PetWindow.class
+com\aipet\agent\DeepSeekClient.class
+com\aipet\agent\PetStatus.class
+com\aipet\memory\MemoryStore.class
+com\aipet\ui\PetWindow$2.class
+com\aipet\sensor\SystemSnapshot.class
+com\aipet\sensor\WindowSensor.class
+com\aipet\ui\PetWindow$1.class
+com\aipet\memory\PetMemory.class
+com\aipet\App.class
+com\aipet\agent\ChatMessage.class
+com\aipet\agent\PetAgent.class
+com\aipet\config\PetConfig.class
