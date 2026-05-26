@@ -1,1 +1,0 @@
-# ai-desktop-pet-java
